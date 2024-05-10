@@ -14,7 +14,6 @@ For the first week we will be covering some basic topics:
 * [Some Standard libraries of python](#some-standard-libraries-of-python)
 * [Classes and Objects](#classes-and-objects)
 * [File Handling (Optional)](#file-handling-optional)
-* [Assignment 1](#assignment)
 
 Then we'll go through some data science libraries.
 # Data Science Libraries!
@@ -199,9 +198,7 @@ Similar to Matplotlib, after installing, you should be able to use it by the hel
 For the sake of this project we do not need much knowledge of Plotly library, but we just added this to the course so as to give you a brief understanding of how data visualization can be made interactive which is an essential tool for your journey ahead in data science.
 Please refer this [documentation](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners) for understanding plotly in detail.
 
-
 # Intro to ML
-
 Firstly, watch [this](https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro Video.
 1. [What is Machine Learning?](https://www.edureka.co/blog/what-is-machine-learning/)
 2. [Mathematics for Machine Learning](https://www.edureka.co/blog/mathematics-for-machine-learning/)
