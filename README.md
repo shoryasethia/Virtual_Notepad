@@ -1,7 +1,7 @@
 ## SoC : Gesture based text creation [ Project ID: 102 ] aka Virtual Notepad and recognition
 
 ### Tentative Timeline
-* Week1: Python programming and introduction to libraries like numpy and pandas along with fundamentals of machine learning 
+* Week1: Python programming and introduction to libraries like numpy, pandas and matplotlib along with fundamentals of machine learning 
 * Week2: Introduction to OpenCV, including reading and displaying images along with fundamentals of Neural Network architectures 
 * Week3: Creating a blank canvas using OpenCV and capturing video input from a webcam 
 * Week4: Training a simple CNN model on the MNIST dataset for handwritten Alphabet recognition 
