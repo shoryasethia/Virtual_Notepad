@@ -213,10 +213,5 @@ Firstly, watch [this](https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro V
 
 ## Unsupervised Learning
 1. [What is unsupervised learning?](https://www.edureka.co/blog/unsupervised-learning/).  
-Content provided below(K-means clustering and neighbours) is just if you want to learn more, It's Not required for this Course though.
-2. [K-means clustering](https://www.edureka.co/blog/k-means-clustering-algorithm/).
-3. [K-Nearest Neighbours](https://www.edureka.co/blog/k-nearest-neighbors-algorithm/)
-
-
 
 This brings us to the end of this Week1 material. By now you should  be familiar with the basics of python. You should have a good enough idea about concepts like data types, loops, operators, iterators, functions, modules and packages, classes in python. Do go through the Assignment after finishing the reading material. It will give you a chance to apply these concepts and practice your skills. 
