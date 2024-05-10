@@ -1,6 +1,6 @@
 # **Python Basics**
 
-For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook]().  
+For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Week%201/Python_review.ipynb).  
 
 For the first week we will be covering some basic topics:
 * [Getting Started](#getting-started)
