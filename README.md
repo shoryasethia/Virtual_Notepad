@@ -1,6 +1,6 @@
 ## SoC : Gesture based text creation [ Project ID: 102 ] aka Virtual Notepad and recognition
 
-## Simpler Version of our project would be like [this](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Simplest-Version-of-Project.mp4)
+## Simplest of simplest Version of our project would be like [this](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Simplest-Version-of-Project.mp4)
 
 
 
