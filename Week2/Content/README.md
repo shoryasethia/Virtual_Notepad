@@ -12,5 +12,8 @@
 # CNNs
 * **Refer first 11(Bare Minimum) lectures by Andrew Ng from this [playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)**
 
+# OpenCV
+* **Refer [this](https://www.youtube.com/watch?v=01sAkU_NvOY&t=21490s) video**
+
 
 
