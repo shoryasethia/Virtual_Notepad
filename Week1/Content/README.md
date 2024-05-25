@@ -199,11 +199,12 @@ For the sake of this project we do not need much knowledge of Plotly library, bu
 Please refer this [documentation](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners) for understanding plotly in detail.
 
 # Intro to ML
+Just starting out? These resources will help you get a solid foundation!
 Firstly, watch [this](https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro Video.
 1. [What is Machine Learning?](https://www.edureka.co/blog/what-is-machine-learning/)
 2. [Mathematics for Machine Learning](https://www.edureka.co/blog/mathematics-for-machine-learning/)
 3. [Basic Intro and Terminologies](https://www.edureka.co/blog/introduction-to-machine-learning/)
-
+   
 ## Supervised Learning
 1. [What is supervised learning?](https://www.edureka.co/blog/supervised-learning/)
 2. [Simple Linear Regression](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/) and it's [python implementation](https://edureka.co/blog/linear-regression-for-machine-learning/#example)
