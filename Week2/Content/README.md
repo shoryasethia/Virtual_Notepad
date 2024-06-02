@@ -11,7 +11,7 @@
 
 **Once you are done with neural networks try to make some with this interactive website, try out various combination of parameters and activation, notice test and train graphs carefully.  [playground.tensorflow.org](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.05720&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)**
 
-> Try to finish upto Neural Nets by this week. This week assignment will not include CNNs and OpenCV. 
+> Try to finish upto Neural Nets by this week. This week assignment will not include OpenCV. 
 # CNNs
 * **Refer first 11(Bare Minimum) lectures by Andrew Ng from this [playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)**
 
