@@ -1,3 +1,5 @@
+## Assignment2-Part1 is compulsory
+
 ## Optional Assignment :
 - Try to implement MLP1, MLP2, MLP3 on Fashion-MNIST. Andd compare their performance.
 - To Download Fashion-Mnist run following
