@@ -1,5 +1,5 @@
 ## Assignment2-Part1 is compulsory
-
+Skip the task 5 in the assignment. We will cover advanced techniques like regularisation, momentum, weight initialisation, custom loss functions later.
 ____________________________________________________________________________________________________
 Week 2 Assignment Submission : [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScQsmJKQJNHqA51wi95kK8Pg07VdQb6mi8F5Ao2F75PReu25g/viewform?usp=sf_link)
 **Deadline : 10th June (Monday) 11:59pm**
