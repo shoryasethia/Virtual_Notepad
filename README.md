@@ -13,3 +13,5 @@
 * Week6: Intro to Image preprocessing techniques such as converting to grayscale, resizing, and normalization. Merging Canvas output with CNN model preciction.
 * Week7: Integrating the trained model with the OpenCV code for real-time recognitions on the canvas for text/word or number recognition
 * Week8: Buffer, Refinement/Modification and documentation
+
+> **We will cover more than this; the order of topics may vary**
