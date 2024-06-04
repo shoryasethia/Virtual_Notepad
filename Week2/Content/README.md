@@ -15,10 +15,6 @@
 
 # CNNs
 * **Refer first 11(Bare Minimum) lectures by Andrew Ng from this [playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)**
-
-**_______________________________________________________________________________________________________________________________________________________**
-
-### - Tensorflow baiscs for Neural Networks (MLPs): No need to code [this](https://www.tensorflow.org/tutorials/quickstart/beginner). Just read and understand how we use tensorflow API's to form model, load data and save model.
-### - Tensorflow baiscs for image classification by CNNs : No need to code [this](https://www.tensorflow.org/tutorials/images/cnn).
+> You will cover more videos from [playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) and solve assignment based on them in upcoming weeks.
 
 
