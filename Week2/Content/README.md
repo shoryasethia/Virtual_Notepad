@@ -4,7 +4,7 @@
 * **Learn basics of Neural Networks :**[Advanced Learning Algorithms on Coursera](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 
 ### For One who Knows Basic ML
-* **This book has it all. You can refer to the ML Basics section and Chapters 6 to 8 for Deep Learning**[Deep Learning Book](https://www.deeplearningbook.org/)
+* **This book has it all. You can refer to the ML Basics section and Chapters 6 to 8 for Deep Learning.** [Deep Learning Book](https://www.deeplearningbook.org/)
 
 ## Or You may refer lectures by Andrew Ng on [YouTube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 ## Or You may refer first 4 videos from [this](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) playlist on YouTube by 3Blue1Brown
