@@ -8,7 +8,7 @@ ________________________________________________________________________________
 > **Note : Each week's assignment submission is necessary for SoC and project completetion certificates**
 
 ## Optional Assignment :
-- Try to implement MLP1, MLP2, MLP3 on Fashion-MNIST. Andd compare their performance.
+- Try to implement MLP1, MLP2, MLP3 on Fashion-MNIST. And compare their performance.
 - To Download Fashion-Mnist run following
 ```
 fashion_mnist = tf.keras.datasets.fashion_mnist
