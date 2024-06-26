@@ -5,4 +5,4 @@
 3. **Pause your screen whenever 4 or more fingers are detected.**
 
 ### In submission form, this time along with the codes, you have to submit the link of your implementation as well.
-### For this assignment ask your doubts in the `Mentee Discussions` on WhatsApp. It would help others as well. And try to solve each other doubts as well.
+### For this assignment ask your doubts in the `Mentee Discussions` on WhatsApp. It would help others as well. And try to solve each other doubts.
