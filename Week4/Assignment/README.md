@@ -1,1 +1,2 @@
-
+# No Assignment this week.
+:)
