@@ -9,7 +9,7 @@ __________________________________
 ### Once this works, combine features like volume, maybe an screenshot sort button, save button, exit button. Moreover, add 2-3 unique functionalities to it.
 #### Canvas header template is [here](https://github.com/shoryasethia/Virtual_Notepad/tree/main/Week6/Project/VLPD-Notepad)
 __________________________________
-> Deadline : 19/07/2024 (Thursday) 11:59PM
+> Deadline : 19/07/2024 (Friday) 11:59PM
 Project submission involves
 1. Codes
 2. Video Demonstration
